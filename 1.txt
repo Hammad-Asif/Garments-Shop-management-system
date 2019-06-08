@@ -1,0 +1,6 @@
+
+		Garments Management System
+
+Bill No. 1
+Price 1000
+Date 5-2-2019
